@@ -44,6 +44,9 @@ Step 1: clone the repo
 
 Step 2: delete the conents of your .librewolf directory and replace them with the contents of the repo
 
+Note: if you're on Windows, you'll need to do this in your C:\Users\ *user* \AppData\Roaming\librewolf directory.
+As if this wasn't enough, you also need to make a profiles directory and put the profile in there.
+
 Step 3: Open LibreWolf. If mtab doesn't work (unlikely), restart LibreWolf.
 
 Your setup should look something like this:
