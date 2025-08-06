@@ -18,7 +18,38 @@ Besides fixing the defaults, LibrePuppy comes with what I consider to be the mos
 
 # How do I install LibrePuppy? #
 
--to be updated
+## Variant 1 ##
+
+Step 1: Clone the repo (you will only need the librePuppy.default-default directory)
+
+Step 2: open LibreWolf and type "about:profiles" into the search bar and hit enter
+
+Step 3: select Create a New Profile and click next
+
+Step 4: change the name to LibrePuppy (optional)
+
+Step 5: click choose folder and select the librePuppy.default-default directory
+
+Step 6: click finish and restart LibreWolf
+
+Your setup should look something like this:
+
+<img width="1219" height="766" alt="Screenshot_20250806_151729" src="https://github.com/user-attachments/assets/c263c6f5-52d6-44b7-b5c2-45202b12c53c" />
+
+## Variant 2 (easier) ##
+
+‼️ Warning ‼️ this will permanently delete all your browser data!
+
+Step 1: clone the repo
+
+Step 2: delete the conents of your .librewolf directory and replace them with the contents of the repo
+
+Step 3: Open LibreWolf. If mtab doesn't work (unlikely), restart LibreWolf.
+
+Your setup should look something like this:
+
+<img width="1219" height="766" alt="Screenshot_20250806_151729" src="https://github.com/user-attachments/assets/c263c6f5-52d6-44b7-b5c2-45202b12c53c" />
+
 
 # 🔍 The details #
 
