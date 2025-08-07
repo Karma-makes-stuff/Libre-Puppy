@@ -98,7 +98,7 @@ Even though LibrePuppy doesn't use it, I chose to enable it, since your setup mi
 
 ### 🕵️ privacy ###
 
-Privacy Badger, Decentraleyes and CanvasBlocker all help to reduce tracking/fingerprinting. Not much to say here.
+Privacy Badger and CanvasBlocker help to reduce tracking/fingerprinting. Not much to say here.
 
 ### 🔐 Bitwarden ###
 
